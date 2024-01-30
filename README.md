@@ -32,3 +32,5 @@ To run the project, you will need to have the following installed:
 ## Usage
 1. Upload the `data_acquisition.ino` sketch to your Arduino UNO.
 2. Run the `model_training.py` script in Python.
+## Contact
+For any queries, you can reach out to me at adduabbu2005sharma@gmail.com
